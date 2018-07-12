@@ -40,7 +40,9 @@ Sequence to Sequence models: [Run On Kaggle](https://www.kaggle.com/jannesklaas/
 
 (Variational) Autoencoder for Fraud Detection: [Run On Kaggle](https://www.kaggle.com/jannesklaas/credit-vae), [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/6.2%20Fraud%20examples.ipynb)
 
-Semi Supervised Generative Adversarial Network for Fraud Detection: [Run On Kaggle](https://www.kaggle.com/jannesklaas/semi-supervised-gan-for-fraud-detection), [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/6.3%20SGAN.ipynb)
+MNIST DCGAN: [Run On Kaggle](https://www.kaggle.com/jannesklaas/mnist-gan), [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/6.3%20MNIST%20DCGAN.ipynb)
+
+Semi Supervised Generative Adversarial Network for Fraud Detection: [Run On Kaggle](https://www.kaggle.com/jannesklaas/semi-supervised-gan-for-fraud-detection), [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/6.4%20SGAN.ipynb)
 
 ## Chapter 7 - Reinforcement Learning 
 Q-Learning: [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/7.1%20Q-Learning.ipynb)
