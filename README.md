@@ -17,7 +17,7 @@ Credit card fraud detection: [Run On Kaggle](https://www.kaggle.com/jannesklaas/
 ## Chapter 3 - Computer Vision 
 Classifying MNIST digits: [Run On Kaggle](https://www.kaggle.com/jannesklaas/classifying-mnist-digits), [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/3.1%20MNIST.ipynb)
 
-Classifying Plants: [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/3.2%20Plant%20Classification.ipynb)
+Classifying Plants: [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/3.2%20Plant%20Classification.ipynb) [Run On Colab](https://drive.google.com/file/d/1WgQ6vSMBRERrOl_dXDX3ESvNJBXxa4RQ/view?usp=sharing)
 
 ## Chapter 4 - Time Series 
 Forecasting Web Traffic: Classic Methods: [Run On Kaggle](https://www.kaggle.com/jannesklaas/time-series-eda), [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/4.1%20EDA%20%26%20Classic%20methods.ipynb)
