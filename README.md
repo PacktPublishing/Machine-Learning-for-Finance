@@ -20,6 +20,18 @@ Classifying MNIST digits: [Run On Kaggle](https://www.kaggle.com/jannesklaas/cla
 ## Chapter 4 - Practical Computer Vision
 Classifying Plants: [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/3.2%20Plant%20Classification.ipynb), [Run On Colab](https://colab.research.google.com/drive/1fwO5ETB7HsYRHb8k5mU9oU3JtyBGOcML)
 
+Intro to Python Generators: [Run On Kaggle](https://www.kaggle.com/jannesklaas/intro-to-python-generators)
+
+Keras Generator with Logistic Regression: [Run On Kaggle](https://www.kaggle.com/jannesklaas/keras-generator-with-logistic-regression)
+
+Stacking VGG: [Run On Kaggle](https://www.kaggle.com/jannesklaas/stacking-vgg)
+
+Preprocessing and Saving VGG Outputs: [Run On Kaggle](https://www.kaggle.com/jannesklaas/preprocessing-saving-vgg-outputs)
+
+Rule Based Preprocessing and Augmentation: [Run On Kaggle](https://www.kaggle.com/jannesklaas/rule-based-pre-processing-augmentation)
+
+Visualizing ConvNets: [Run On Kaggle](https://www.kaggle.com/jannesklaas/visualizing-convnets)
+
 ## Chapter 5 - Time Series 
 Forecasting Web Traffic: Classic Methods: [Run On Kaggle](https://www.kaggle.com/jannesklaas/time-series-eda), [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/4.1%20EDA%20%26%20Classic%20methods.ipynb)
 
