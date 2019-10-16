@@ -1,4 +1,8 @@
-# The code for this repository is under development :construction_worker:
+# Machine Learning for Finance
+This is the code repository for [Machine Learning for Finance](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-finance), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+
+## About the book
+Machine Learning for Finance explores new advances in machine learning and shows how they can be applied in the financial sector. It explains the concepts and algorithms behind the main machine learning techniques and provides example Python code for implementing the models yourself.
 
 # How to run this code 
 The code in this repository is quite compute heavy and best run on a GPU enabled machine. The datascience platform [Kaggle](http://kaggle.com/) offers free GPU recourses together with free online Jupyter notebooks. To make edits on the Kaggle notebooks, click 'Fork' to create a new copy of the notebook. You will need a Kaggle account for this.
