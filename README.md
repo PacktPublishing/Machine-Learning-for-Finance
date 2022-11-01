@@ -88,7 +88,3 @@ Understanding Parity in Excel: [Download](https://github.com/PacktPublishing/Mac
 Learning How to Pivot: [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/9.2_Learning_to_be_fair.ipynb)
 
 Interpretability with SHAP: [View Online](http://nbviewer.jupyter.org/github/PacktPublishing/Machine-Learning-for-Finance/blob/master/9.3_SHAP.ipynb)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789136364">https://packt.link/free-ebook/9781789136364 </a> </p>
